@@ -1,0 +1,15 @@
+progressbar2
+joblib
+cma
+fairlearn
+pandas
+matplotlib
+numpy
+scipy
+scikit-learn
+h5py
+tables
+torch
+torchvision
+cvxopt
+parglare
